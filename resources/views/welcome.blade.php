@@ -83,7 +83,9 @@
                 <div class="title m-b-md">
                     Laravel
                 </div>
-
+                <div>
+                    <a href="{{ asset('auth/facebook') }}" class="btn btn-info">Login Facebook </a>
+                </div>
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>
